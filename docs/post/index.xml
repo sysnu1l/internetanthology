@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on internet anthology</title>
+    <link>sysnu1l.github.io/internet-anthology/post/</link>
+    <description>Recent content in Posts on internet anthology</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2019</copyright>
+    <lastBuildDate>Thu, 21 Mar 2019 16:19:33 -0500</lastBuildDate>
+    
+	<atom:link href="sysnu1l.github.io/internet-anthology/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>sysnu1l.github.io/internet-anthology/post/hello-world/</link>
+      <pubDate>Thu, 21 Mar 2019 16:19:33 -0500</pubDate>
+      
+      <guid>sysnu1l.github.io/internet-anthology/post/hello-world/</guid>
+      <description>This is my first post.</description>
+    </item>
+    
+  </channel>
+</rss>
