@@ -4,7 +4,7 @@ theme ="hugo-theme-basic"
 languageCode = "en-us"
 # googleAnalytics = "UA-XXXXXXXXX-X"
 enableEmoji = true
-copyright = "© 2019 <a href='https://github.com/siegerts/hugo-theme-basic'>Basic</a>."
+copyright = "© 2019" 
 description = ""
 
 [taxonomies]
