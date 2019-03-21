@@ -1,3 +1,49 @@
-baseURL = "http://example.org/"
+baseurl = "sysnu1l.github.io/internet-anthology/"
+title = "internet anthology"
+theme ="hugo-theme-basic"
 languageCode = "en-us"
-title = "My New Hugo Site"
+# googleAnalytics = "UA-XXXXXXXXX-X"
+enableEmoji = true
+copyright = "© 2019 <a href='https://github.com/siegerts/hugo-theme-basic'>Basic</a>."
+description = ""
+
+[taxonomies]
+   category = "categories"
+   series = "series"
+   tag = "tags"
+
+[params]
+   titleEmoji = ":floppy_disk:"
+
+#[Permalinks]
+  # post = "post/:slug"
+
+[[params.menu]]
+   name = "blog"
+   url = "post/"
+
+#[[params.menu]]   
+  # name = "post series"
+  # url = "series/"
+
+[[params.menu]]
+   name = "about"
+   url = "about/"
+
+[[params.menu]]
+   name = "links"
+   url = "links/"
+
+#[[params.menu]]
+  # name = "projects"
+  # url = "projects/"
+
+[privacy]
+   [privacy.googleAnalytics]
+      anonymizeIP = true
+      respectDoNotTrack = true
+      useSessionStorage = true
+   [privacy.twitter]
+      enableDNT = true
+   [privacy.youtube]
+      privacyEnhanced = true
