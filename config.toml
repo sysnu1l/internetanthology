@@ -15,8 +15,8 @@ description = ""
 [params]
    titleEmoji = ":floppy_disk:"
 
-#[Permalinks]
-  # post = "post/:slug"
+[Permalinks]
+  post = "post/:slug"
 
 [[params.menu]]
    name = "blog"
