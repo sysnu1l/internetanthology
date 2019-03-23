@@ -1,4 +1,4 @@
-baseurl = "sysnu1l.github.io/internet-anthology/"
+baseurl = "sysnu1l.github.io/internetanthology/"
 title = "internet anthology"
 theme ="hugo-theme-basic"
 languageCode = "en-us"

@@ -2,14 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>internet anthology</title>
-    <link>sysnu1l.github.io/internet-anthology/</link>
+    <link>sysnu1l.github.io/internetanthology/</link>
     <description>Recent content on internet anthology</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2019 &lt;a href=&#39;https://github.com/siegerts/hugo-theme-basic&#39;&gt;Basic&lt;/a&gt;.</copyright>
+    <lastBuildDate>Thu, 21 Mar 2019 16:19:33 -0500</lastBuildDate>
     
-	<atom:link href="sysnu1l.github.io/internet-anthology/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="sysnu1l.github.io/internetanthology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hello World</title>
+      <link>sysnu1l.github.io/internetanthology/post/hello-world/</link>
+      <pubDate>Thu, 21 Mar 2019 16:19:33 -0500</pubDate>
+      
+      <guid>sysnu1l.github.io/internetanthology/post/hello-world/</guid>
+      <description>This is my first post.</description>
+    </item>
+    
+    <item>
+      <title>Links</title>
+      <link>sysnu1l.github.io/internetanthology/links/</link>
+      <pubDate>Thu, 21 Mar 2019 16:17:06 -0500</pubDate>
+      
+      <guid>sysnu1l.github.io/internetanthology/links/</guid>
+      <description>Have some fresh links.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>sysnu1l.github.io/internetanthology/about/</link>
+      <pubDate>Thu, 21 Mar 2019 16:16:57 -0500</pubDate>
+      
+      <guid>sysnu1l.github.io/internetanthology/about/</guid>
+      <description>Hi. 👋 I&amp;rsquo;m sysnull.</description>
+    </item>
     
   </channel>
 </rss>
