@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>internet anthology</title>
-    <link>internetanthology/</link>
+    <link>/</link>
     <description>Recent content on internet anthology</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2019</copyright>
     <lastBuildDate>Thu, 21 Mar 2019 16:19:33 -0500</lastBuildDate>
     
-	<atom:link href="internetanthology/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello World</title>
-      <link>internetanthology/post/hello-world/</link>
+      <link>/post/hello-world/</link>
       <pubDate>Thu, 21 Mar 2019 16:19:33 -0500</pubDate>
       
-      <guid>internetanthology/post/hello-world/</guid>
+      <guid>/post/hello-world/</guid>
       <description>This is my first post.</description>
     </item>
     
     <item>
       <title>Links</title>
-      <link>internetanthology/links/</link>
+      <link>/links/</link>
       <pubDate>Thu, 21 Mar 2019 16:17:06 -0500</pubDate>
       
-      <guid>internetanthology/links/</guid>
+      <guid>/links/</guid>
       <description>Have some fresh links.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>internetanthology/about/</link>
+      <link>/about/</link>
       <pubDate>Thu, 21 Mar 2019 16:16:57 -0500</pubDate>
       
-      <guid>internetanthology/about/</guid>
+      <guid>/about/</guid>
       <description>Hi. 👋 I&amp;rsquo;m sysnull.</description>
     </item>
     

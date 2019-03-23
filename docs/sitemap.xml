@@ -3,43 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>internetanthology/post/hello-world/</loc>
+    <loc>/post/hello-world/</loc>
     <lastmod>2019-03-21T16:19:33-05:00</lastmod>
   </url>
   
   <url>
-    <loc>internetanthology/links/</loc>
+    <loc>/links/</loc>
     <lastmod>2019-03-21T16:17:06-05:00</lastmod>
   </url>
   
   <url>
-    <loc>internetanthology/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2019-03-21T16:16:57-05:00</lastmod>
   </url>
   
   <url>
-    <loc>internetanthology/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>internetanthology/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2019-03-21T16:19:33-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>internetanthology/series/</loc>
+    <loc>/series/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>internetanthology/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>internetanthology/</loc>
+    <loc>/</loc>
     <lastmod>2019-03-21T16:19:33-05:00</lastmod>
     <priority>0</priority>
   </url>
