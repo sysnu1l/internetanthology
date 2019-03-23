@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on internet anthology</title>
-    <link>/post/</link>
+    <link>https://sysnu1l.github.io/internetanthology/post/</link>
     <description>Recent content in Posts on internet anthology</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2019</copyright>
     <lastBuildDate>Thu, 21 Mar 2019 16:19:33 -0500</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sysnu1l.github.io/internetanthology/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello World</title>
-      <link>/post/hello-world/</link>
+      <link>https://sysnu1l.github.io/internetanthology/hello-world/</link>
       <pubDate>Thu, 21 Mar 2019 16:19:33 -0500</pubDate>
       
-      <guid>/post/hello-world/</guid>
+      <guid>https://sysnu1l.github.io/internetanthology/hello-world/</guid>
       <description>This is my first post.</description>
     </item>
     
